@@ -20,6 +20,14 @@ To be able to use this script, FFMPEG needs to be installed: www.ffmpeg.org
 
 # How to Use
 
-Download and extract the X-T10-Converter.zip file.
-Put all the videos that need conversion in the "from" folder.
-Run the script from the command line using ./color-range.sh or by running the script from the GUI
+1) Download and extract the X-T10-Converter.zip file.
+2) Put all the videos that need conversion in the "from" folder.
+3) Run the script from the command line using ./color-range.sh or by running the script from the GUI.
+
+# Examples
+Most noticeable on the cigarettes pack.
+
+Original
+![Example Original Frame Grab](Input.jpg)
+Output
+![Example Output Frame Grab](Output.jpg)
